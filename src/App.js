@@ -69,10 +69,6 @@ const App = () => {
         />
       )}
     </main>
-
-    // <>
-    //   <div> Hello </div>
-    // </>
   );
 };
 
